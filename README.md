@@ -10,7 +10,7 @@ A project containing a jupyter notebook file used in ArcGIS Pro to merge two dat
 
 Project uses pandas, geopandas functionality, and arcpy (Python).
 
-For an outline, see the City_Boundaries_Project_Outline.docx file.
+For an outline, see the City_Boundaries_Project_Outline screenshot, or download the .docx file.
 
 **Input Parameters:**
 
